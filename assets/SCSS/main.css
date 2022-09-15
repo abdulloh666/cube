@@ -1,0 +1,13 @@
+body {
+  height: 100vh !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  flex-direction: column !important;
+}
+body #div {
+  background: #000;
+}
+body span {
+  font-size: 20px;
+}/*# sourceMappingURL=main.css.map */
